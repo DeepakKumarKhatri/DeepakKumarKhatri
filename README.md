@@ -46,8 +46,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakKumarKhatri&theme=highcontrast" />
 </p>
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkumarkhatri&show_icons=true&locale=en&layout=compact=true&theme=highcontrast" alt="deepakkumarkhatri" /></p>
 
 
