@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">🎓I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science and have a strong interest in Open-Source💙.</h3>
-<h3 align="center">✨ I'm passionate about Cloud Computing, AWS, and learning new things!
+<h3 align="center">✨ I'm passionate about Cloud Computing, AWS,Web Dev, Machine Learning, DevOps & I enjoy learning new things!.</h3>
 
-.</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deepakkumarkhatri&theme=onedark)](https://github.com/deepakkumarkhatri/github-profile-trophy)
 
