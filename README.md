@@ -24,27 +24,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumarkhatri&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumarkhatri" /> </p>
 
 
-- 🌱 I’m currently learning **Python and Java**
-
-- 👨‍💻 All of my projects are available at [https://github.com/DeepakKumarKhatri](https://github.com/DeepakKumarKhatri)
-
-- 📝 I regularly write articles on [https://medium.com/@khatrideepak112](https://medium.com/@khatrideepak112)
-
-- 📫 How to reach me **Khatrideepak112@gmail.com**
-
-- ⚡ Fun fact **I am quick learner and passionate about the work that I am enroll into.**
-
-
 ### Linkedin Blogs💙 
 
 <a href="https://www.linkedin.com/pulse/why-do-i-want-learn-how-code-deepak-kumar/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.linkedin.com/pulse/why-do-i-want-learn-how-code-deepak-kumar/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Languages⚡
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkumarkhatri&show_icons=true&locale=en&layout=compact" alt="deepakkumarkhatri" /></p>
+### DevOps✔ 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkumarkhatri&show_icons=true&locale=en" alt="deepakkumarkhatri" /></p>
+## 📈 Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DeepakKumarKhatri&show_icons=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakKumarKhatri&theme=highcontrast" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumarkhatri&" alt="deepakkumarkhatri" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkumarkhatri&show_icons=true&locale=en&layout=compact=true&theme=highcontrast" alt="deepakkumarkhatri" /></p>
+
