@@ -2,10 +2,11 @@
 <h3 align="center">🎓I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science and have a strong interest in Open-Source💙.</h3>
 <h3 align="center">✨ I'm passionate about Cloud Computing, AWS, Web Dev, Machine Learning, DevOps & I enjoy learning new things!.</h3>
 
+![Deepak's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DeepakKumarKhatri&theme=xcode)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=deepakkumarkhatri&theme=onedark)](https://github.com/deepakkumarkhatri/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me::hear_no_evil:</h3>
 
 <a href="https://www.linkedin.com/in/𝗗𝗲𝗲𝗽𝗮𝗸-𝗞𝘂𝗺𝗮𝗿-2a7262214">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
@@ -35,6 +36,10 @@
 ### DevOps✔ 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 
+## Deepak's Github Contributions: :see_no_evil:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=deepakkumarkhatri&theme=onedark)](https://github.com/deepakkumarkhatri/github-profile-trophy)
+
 ## 📈 Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DeepakKumarKhatri&show_icons=true&theme=highcontrast" />
@@ -44,4 +49,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkumarkhatri&show_icons=true&locale=en&layout=compact=true&theme=highcontrast" alt="deepakkumarkhatri" /></p>
+
+
 
