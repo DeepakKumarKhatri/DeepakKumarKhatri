@@ -36,7 +36,7 @@
 ### DevOps✔ 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 
-## Deepak's Github Contributions: :see_no_evil:
+## Deepak's Github Profile Stats: :see_no_evil:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deepakkumarkhatri&theme=onedark)](https://github.com/deepakkumarkhatri/github-profile-trophy)
 
