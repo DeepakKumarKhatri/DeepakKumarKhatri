@@ -1,53 +1,56 @@
-#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Deepak Kumar](https://www.linkedin.com/in/𝗗𝗲𝗲𝗽𝗮𝗸-𝗞𝘂𝗺𝗮𝗿-2a7262214) !!
-<h3 align="center">🎓I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science and have a strong interest in Open-Source💙.</h3>
-<h3 align="center">✨ I'm passionate about Cloud Computing, AWS, Web Dev, Machine Learning, DevOps & I enjoy learning new things!.</h3>
 
-![Deepak's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DeepakKumarKhatri&theme=xcode)
+# Hey Stalkers <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Deepak Kumar <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+`Building the web. One line at a time.`
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumarkhatri&label=Profile%20views&color=0e75b6&style=flat" alt="profileViewCount" /> </p>
+
+<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+
+You already know me right?. I am currently a second year student and pursuing Bachelors in Computer Science. I am an experienced developer who is skilled in C++, Java, Python, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in my university related societies, hackathons, fests and workshops and helped in building many communities from scratch.
+
+### I am Most Active Here
+[![Twitter: DeepKumarKhatri](https://img.shields.io/twitter/follow/DeepKumarKhatri?style=social)](https://twitter.com/DeepKumarKhatri)
+[![Linkedin: deepakkumarkhatri](https://img.shields.io/badge/-deepakkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakkumarkhatri/)](https://www.linkedin.com/in/deepakkumarkhatri/)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const deepu = {
+    pronouns: "He" | "Him",
+    code: ["Javascript"],
+    askMeAbout: ["web technologies", "problem solving", "open-source", "ML"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue", "NextJS"],
+        }
+    },
+    currentFocus: "Getting better in Javascript",
+    funFact: "I love documenting my journey while learning something new"
+};
+```
+
+![Deepak's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DeepakKumarKhatri&theme=react-dark&hide_border=true&area=true)
 
 
+## My Latest Blog Posts 👇
+<!-- BLOG-POST-LIST:START -->
+- [Binary Search Algorithm](https://dev-deepakkumar.medium.com/-ca11574de1e1)
+- [Starting with DSA](https://dev-deepakkumar.medium.com/-1b41035b1e9f)
+- [Machine Learning](https://dev-deepakkumar.medium.com/machine-learning-the-quest-for-intelligent-behavior-in-machines-825eaf04b24c)
+<!-- BLOG-POST-LIST:END -->
 
 
-<h3 align="left">Connect with me::hear_no_evil:</h3>
+## Deepak's Github Profile Stats:
 
-<a href="https://www.linkedin.com/in/𝗗𝗲𝗲𝗽𝗮𝗸-𝗞𝘂𝗺𝗮𝗿-2a7262214">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
- </a> 
-<a href="mailto:Khatrideepak112@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
-</a>
-<a href="https://twitter.com/DeepakK01847837">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
-</a>
-<a href="https://medium.com/@khatrideepak112">
-  <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
-</a>
-<br> <br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumarkhatri&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumarkhatri" /> </p>
-
-
-### Linkedin Blogs💙 
-
-<a href="https://www.linkedin.com/pulse/why-do-i-want-learn-how-code-deepak-kumar/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.linkedin.com/pulse/why-do-i-want-learn-how-code-deepak-kumar/" height="30" width="40" /></a>
-</p>
-
-### Languages⚡
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-
-### DevOps✔ 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
-
-## Deepak's Github Profile Stats: :see_no_evil:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=deepakkumarkhatri&theme=onedark)](https://github.com/deepakkumarkhatri/github-profile-trophy)
-
-## 📈 Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DeepakKumarKhatri&show_icons=true&theme=highcontrast" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakKumarKhatri&theme=highcontrast" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkumarkhatri&show_icons=true&locale=en&layout=compact=true&theme=highcontrast" alt="deepakkumarkhatri" /></p>
+<!--END_SECTION:waka-->
+  
+<br/>
+<br/>
 
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
