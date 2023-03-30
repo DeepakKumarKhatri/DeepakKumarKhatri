@@ -29,7 +29,7 @@ const deepu = {
 };
 ```
 
-![Deepak's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DeepakKumarKhatri&theme=react-dark&hide_border=true&area=true)
+[![Deepak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DeepakKumarKhatri&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/DeepakKumarKhatri/github-readme-activity-graph)
 
 
 ## My Latest Blog Posts 👇
@@ -54,4 +54,4 @@ const deepu = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-[![@devdeepakkumar's Holopin board](https://holopin.me/devdeepakkumar)](https://holopin.io/@devdeepakkumar)
+<!-- [![@devdeepakkumar's Holopin board](https://holopin.me/devdeepakkumar)](https://holopin.io/@devdeepakkumar) -->
