@@ -50,9 +50,6 @@ const deepu = {
 ## 📊 GitHub Stats
 
 ![Deepu's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakkumarkhatri&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkumarkhatri&layout=compact&theme=radical)
-
 ---
 
 🔹 **Open to Collaborations**  |  🔹 **Always Learning**
