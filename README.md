@@ -1,55 +1,64 @@
-# Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hey, I’m Deepak 👋  
+### I build things for the web — mostly with JavaScript, occasionally with caffeine.
 
-### 🚀 Building the web, one line at a time.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumarkhatri&label=Profile%20views&color=0e75b6&style=flat" alt="profileViewCount" /> </p>
-
----
-
-## 🌐 Connect with Me
-
-[![Twitter: DeepKumarKhatri](https://img.shields.io/twitter/follow/DeepKumarKhatri?style=social)](https://twitter.com/DeepKumarKhatri)
-[![LinkedIn: deepakkumarkhatri](https://img.shields.io/badge/-deepakkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepakkumarkhatri/)](https://www.linkedin.com/in/deepakkumarkhatri/)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=deepakkumarkhatri&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🌐 Find me around the internet
 
-```javascript
+- 🐦 Twitter: [@DeepKumarKhatri](https://twitter.com/DeepKumarKhatri)  
+- 💼 LinkedIn: [deepakkumarkhatri](https://www.linkedin.com/in/deepakkumarkhatri/)
+
+---
+
+## 🛠 What I work with
+
+```js
 const deepu = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["Web Technologies", "Problem-Solving", "Open-Source", "Cloud"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            java: ["Spring", "Spring Boot", "Hibernate"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "MySQL"],
-        devOps: ["Docker", "Kubernetes", "AWS"]
+  pronouns: "he/him",
+  interests: [
+    "Web development",
+    "Clean architecture",
+    "Problem solving",
+    "Open source"
+  ],
+  stack: {
+    frontend: ["React", "Next.js"],
+    backend: {
+      js: ["Node.js", "Express"],
+      java: ["Spring", "Spring Boot", "Hibernate"]
     },
-    currentFocus: "Building Scalable Web Applications",
-    funFact: "I love documenting my journey while learning something new!"
+    databases: ["PostgreSQL", "MongoDB", "MySQL"],
+    devOps: ["Docker", "Kubernetes", "AWS"]
+  },
+  currentlyLearning: "How to build systems that scale without becoming a mess",
+  funFact: "I write things down so future-me doesn’t suffer."
 };
-```
+````
 
 ---
 
-## ✍️ Latest Blog Posts
+## ✍️ I also write sometimes
 
 <!-- BLOG-POST-LIST:START -->
-- [Binary Search Algorithm](https://dev-deepakkumar.medium.com/-ca11574de1e1)
-- [Starting with DSA](https://dev-deepakkumar.medium.com/-1b41035b1e9f)
-- [Machine Learning](https://dev-deepakkumar.medium.com/machine-learning-the-quest-for-intelligent-behavior-in-machines-825eaf04b24c)
+
+* [Why Node.js Feels Asynchronous Even Though JavaScript Isn’t](https://medium.com/@devdeepakkumar/why-node-js-feels-asynchronous-even-though-javascript-isnt-997f8e550560)
+* [Binary Search Algorithm](https://dev-deepakkumar.medium.com/-ca11574de1e1)
+* [Getting Started with DSA](https://dev-deepakkumar.medium.com/-1b41035b1e9f)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub activity (a.k.a. proof of life)
 
-![Deepu's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakkumarkhatri&show_icons=true&theme=radical)
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakkumarkhatri\&show_icons=true\&theme=radical)
+
 ---
 
-🔹 **Open to Collaborations**  |  🔹 **Always Learning**
+**Open to collaboration.
+Always learning.
+Occasionally breaking things (and fixing them).**
