@@ -46,8 +46,8 @@ const deepu = {
 <!-- BLOG-POST-LIST:START -->
 
 * [Why Node.js Feels Asynchronous Even Though JavaScript Isn’t](https://medium.com/@devdeepakkumar/why-node-js-feels-asynchronous-even-though-javascript-isnt-997f8e550560)
-* [Binary Search Algorithm](https://dev-deepakkumar.medium.com/-ca11574de1e1)
-* [Getting Started with DSA](https://dev-deepakkumar.medium.com/-1b41035b1e9f)
+* [The Accidental King: How JavaScript Was Born in a Coffee-Stained Panic, and Why the Web Would Be Dead Without It](https://devdeepakkumar.medium.com/the-accidental-king-how-javascript-was-born-in-a-coffee-stained-panic-and-why-the-web-would-be-c1890178029a)
+* [I Spent 4 Years Writing JavaScript Before I Actually Understood var, let, and const](https://devdeepakkumar.medium.com/i-spent-4-years-writing-javascript-before-i-actually-understood-var-let-and-const-4466dd4a0fa9)
 
 <!-- BLOG-POST-LIST:END -->
 
