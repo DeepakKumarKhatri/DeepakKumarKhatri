@@ -1,5 +1,5 @@
 # Hey, I’m Deepak 👋  
-### I build things for the web — mostly with JavaScript, occasionally with caffeine.
+### I build things for the web - mostly with JavaScript, occasionally with caffeine.
  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=deepakkumarkhatri&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -48,6 +48,7 @@ const deepu = {
 * [Why Node.js Feels Asynchronous Even Though JavaScript Isn’t](https://medium.com/@devdeepakkumar/why-node-js-feels-asynchronous-even-though-javascript-isnt-997f8e550560)
 * [The Accidental King: How JavaScript Was Born in a Coffee-Stained Panic, and Why the Web Would Be Dead Without It](https://devdeepakkumar.medium.com/the-accidental-king-how-javascript-was-born-in-a-coffee-stained-panic-and-why-the-web-would-be-c1890178029a)
 * [I Spent 4 Years Writing JavaScript Before I Actually Understood var, let, and const](https://devdeepakkumar.medium.com/i-spent-4-years-writing-javascript-before-i-actually-understood-var-let-and-const-4466dd4a0fa9)
+* [Your cat understands the world better than ChatGPT and one of AI's godfathers just quit Meta over](https://devdeepakkumar.medium.com/your-cat-understands-the-world-better-than-chatgpt-and-one-of-ais-godfathers-just-quit-meta-over-78af3beb53e4)
 
 <!-- BLOG-POST-LIST:END -->
 
